@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://checeighu.filerecorder.org/sitemap.xml
